@@ -1,5 +1,11 @@
-使い方：
-※もしVisual Studio 2015が入って以内場合、vcredist_x64.exeをインストールしてください．
+# image dataset
+ある程度の大きさの画像データを集めています．
+
+# image quality
+画質評価用の実行ファイルです．
+
+## 使い方
+※もしVisual Studio 2015が入っていない場合、vcredist_x64.exeをインストールしてください．
 
 YチャネルのPSNRが出力される．
 psnr src.png dest.jpg 0
