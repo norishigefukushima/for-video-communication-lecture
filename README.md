@@ -1,2 +1,2 @@
-# for video communication lecture
+# 名古屋工業大学 映像メディア通信特論用のデータ
  
